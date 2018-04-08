@@ -1,0 +1,22 @@
+{
+    "name": "bluebracket-material",
+    "displayName": "bluebracket-material",
+    "description": "bluebracket modification of material theme",
+    "version": "0.0.1",
+    "publisher": "bluebracket",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "bluebracket Material",
+                "uiTheme": "vs-dark",
+                "path": "./themes/bluebracket Material-color-theme.json"
+            }
+        ]
+    }
+}
