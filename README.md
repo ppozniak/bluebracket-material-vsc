@@ -1,7 +1,6 @@
 # README
-## bluebracket-material
+## bluebracket-material theme
 
-This is my modification of Material dark theme, using my own color pallette. #0096ff <3
-Careful, it's really dark.
+Darker modification of Material dark with blue accents.
 
 [bluebracket site](https://bluebracket.net)

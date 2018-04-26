@@ -1,9 +1,13 @@
 {
     "name": "bluebracket-material",
     "displayName": "bluebracket-material",
-    "description": "bluebracket modification of material theme",
-    "version": "0.0.1",
+    "description": "Darker modification of material theme with blue accents",
+    "version": "1.0.1",
     "publisher": "bluebracket",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ppozniak/bluebracket-material-vsc.git"
+    },
     "engines": {
         "vscode": "^1.22.0"
     },
@@ -15,7 +19,7 @@
             {
                 "label": "bluebracket Material",
                 "uiTheme": "vs-dark",
-                "path": "./themes/bluebracket Material-color-theme.json"
+                "path": "./themes/bluebracket-theme.json"
             }
         ]
     }
