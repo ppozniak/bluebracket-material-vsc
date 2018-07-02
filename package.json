@@ -8,7 +8,7 @@
     "color": "#0f1e28",
     "theme": "light"
   },
-  "icon": "./icon.png",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/ppozniak/bluebracket-material-vsc.git"
