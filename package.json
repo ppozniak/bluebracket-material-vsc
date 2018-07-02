@@ -1,31 +1,31 @@
 {
-    "name": "bluebracket-material",
-    "displayName": "bluebracket-material",
-    "description": "Darker modification of material theme with blue accents",
-    "version": "1.0.1",
-    "publisher": "bluebracket",
-    "galleryBanner": {
-        "color": "#0f1e28",
-        "theme": "light"
-    },
-    "icon": "./icon.png",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/ppozniak/bluebracket-material-vsc.git"
-    },
-    "engines": {
-        "vscode": "^1.22.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "bluebracket Material",
-                "uiTheme": "vs-dark",
-                "path": "./themes/bluebracket-theme.json"
-            }
-        ]
-    }
+  "name": "bluebracket-material",
+  "displayName": "bluebracket-material",
+  "description": "Darker modification of material theme with blue accents",
+  "version": "1.1.0",
+  "publisher": "bluebracket",
+  "galleryBanner": {
+    "color": "#0f1e28",
+    "theme": "light"
+  },
+  "icon": "./icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ppozniak/bluebracket-material-vsc.git"
+  },
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "bluebracket Material",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bluebracket-theme.json"
+      }
+    ]
+  }
 }
