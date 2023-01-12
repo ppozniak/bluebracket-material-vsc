@@ -1,8 +1,6 @@
-# bluebracket.net Material theme
+# bluebracket Material theme
 
 Dark modification of Material dark with blue accents.
-
-[bluebracket.net](https://bluebracket.net)
 
 ![Screen1](https://i.imgur.com/7mctybh.png)
 ![Screen2](https://i.imgur.com/ui225gh.png)
